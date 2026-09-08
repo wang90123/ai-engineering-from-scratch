@@ -1,4 +1,6 @@
-__pycache__/
+*.pt
+*.pth
+*.safetensors__pycache__/
 *.py[cod]
 *$py.class
 *.so
